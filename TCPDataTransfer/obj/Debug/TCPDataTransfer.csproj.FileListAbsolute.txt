@@ -1,0 +1,10 @@
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.Form1.resources
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.Properties.Resources.resources
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.csproj.GenerateResource.cache
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\bin\Debug\TCPDataTransfer.exe.config
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\bin\Debug\TCPDataTransfer.exe
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\bin\Debug\TCPDataTransfer.pdb
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.exe
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.pdb
+C:\Users\Kemal Yiğit Özdemir\source\repos\TCPDataTransfer\TCPDataTransfer\obj\Debug\TCPDataTransfer.csprojAssemblyReference.cache
